@@ -1,0 +1,28 @@
+{
+  "id": "./",
+  "name": "رحلتي — الجيم والوزن والتغذية",
+  "short_name": "رحلتي",
+  "description": "تسجيل تمارين الجيم والأوزان والصور وقياسات الجسم والطعام والماء.",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#176b5b",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
